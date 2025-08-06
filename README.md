@@ -4,8 +4,8 @@
 Hey there I'am ARPUTHARAJ, am pursuing my Bachelor Degree  at SRM institute science and technology . with a passion coding and crafting innovative sloutions . This README is my playground to showcase my journey skills, and asipration.let's dive in!
 
 # Skills & interests:
-Programming Languages : Python Programming,SQL.
-Framworks/Libraries : Pandas,Numby,seaborn,matplotlib
+. Programming Languages : Python Programming,SQL.
+. Framworks/Libraries : Pandas,Numby,seaborn,matplotlib
 Databases : Mysql,SQL server.
 Tools and Applications : Microsoft Power BI | Microsoft Excel.
 version control : Git/Github,google colab,VS Codea.
