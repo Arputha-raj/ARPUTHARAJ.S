@@ -1,9 +1,9 @@
-Hi, I'am ARPUTHARAJ
+## Hi, I'am ARPUTHARAJ
 
-About Me ;
+# About Me ;
 Hey there I'am ARPUTHARAJ, am pursuing my Bachelor Degree  at SRM institute science and technology . with a passion coding and crafting innovative sloutions . This README is my playground to showcase my journey skills, and asipration.let's dive in!
 
-Skills & interests:
+# Skills & interests:
 Programming Languages : Python Programming,SQL.
 Framworks/Libraries : Pandas,Numby,seaborn,matplotlib
 Databases : Mysql,SQL server.
@@ -11,9 +11,8 @@ Tools and Applications : Microsoft Power BI | Microsoft Excel.
 version control : Git/Github,google colab,VS Codea.
 Interests : Problem sloving Comppetive Programing open-source Contribution
 
-connect with me:
+# connect with me:
 Email: appuraj6780@gmail.com
-githup:
 
 # On a Journey from Learning to Impact
 
