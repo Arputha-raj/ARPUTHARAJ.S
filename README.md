@@ -12,9 +12,9 @@ Hey there I'am ARPUTHARAJ, am pursuing my Bachelor Degree  at SRM institute scie
 - Interests: Problem Solving, Competitive Programming, Open-Source Contribution
 
 # connect with me:
--Email: appuraj6780@gmail.com
--linkedin: www.linkedin.com/in/ arputharaj-s
--github: https://github.com/Arputha-raj
+-Email:  appuraj6780@gmail.com
+-linkedin:  www.linkedin.com/in/ arputharaj-s
+-github:  https://github.com/Arputha-raj
 
 # On a Journey from Learning to Impact
 
